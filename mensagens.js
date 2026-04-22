@@ -1935,7 +1935,7 @@ E ali, ao lado dele, senti algo que nunca havia sentido antes.
 Não era só afeto, não era só desejo… era tudo junto.  
 Cada gesto, cada olhar, cada sorriso compartilhado se transformou em algo maior.  
 E por um instante, fechei os olhos apenas para sentir tudo profundamente.  
-Era real. Nós estávamos juntos. ❤️ `, video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350602928854925426/VID-20241013-WA00211.mp4?ex=69bd273f&is=69bbd5bf&hm=12fc8fbec5678abe6e03c0d080732b8ca0ad0366a41d3135d608413d2f7e6eea&",
+Era real. Nós estávamos juntos. ❤️ `, video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350502457461178528/VID-20241013-WA0027.mp4?ex=69ea456c&is=69e8f3ec&hm=3a709f8b9f3f28b69bdb1a5d1ae489b12b788a4333f683bdcd73bec1ee1fb480&",
                 img: "https://media.discordapp.net/attachments/1350448598088814625/1350502172357562441/IMG-20241014-WA0053.jpg?ex=69bd7229&is=69bc20a9&hm=e6f25dc24513292cf8f5eaf805dfa26ab73b7489bbb6e46bcdb409be4d0cc5c2&=&format=webp&width=651&height=676" 
             },
 
@@ -2001,7 +2001,7 @@ E ali, de mãos dadas, lado a lado, senti que todos os dias anteriores nos levar
 Tudo que sentimos virtualmente se transformou em realidade — intensa, palpável, emocionante.  
 E finalmente, percebi:  
 estar com ele é exatamente onde eu deveria estar. ❤️`, 
-                img: "", video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350602929916084234/VID-20241013-WA00181.mp4?ex=69bd273f&is=69bbd5bf&hm=9bf4dcc4f05dd446dbd6bfa337b43617ea8d100107aae53a083fa99665067292&"
+                img: "", video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350502458442387476/VID-20241013-WA0020.mp4?ex=69ea456d&is=69e8f3ed&hm=521ce296039b44e76586176ac98bdedb3675de6370e0458277314d34806cdfee&"
             },
 
             { 
@@ -2072,7 +2072,7 @@ Tudo nos trouxe até aqui.
 E naquele momento, ao olhar nos olhos dela, senti que estávamos prontos.  
 Prontos para tudo que viesse, prontos para não apenas sentir, mas viver tudo isso juntos.  
 O coração disparado, as mãos entrelaçadas, o sorriso dela refletido no meu… e uma certeza absoluta: nada mais importa além disso. ❤️ `, 
-                video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350602929496785096/VID-20241013-WA00191.mp4?ex=69bd273f&is=69bbd5bf&hm=7fc7a905e75a1dc72bedbd030b512a993d87d5af51f73de00305aec3c3a58b0e&", img: "",
+                video: "https://cdn.discordapp.com/attachments/1350448598088814625/1350602928854925426/VID-20241013-WA00211.mp4?ex=69e9fa3f&is=69e8a8bf&hm=658362882d91a7ac744bb2f963e7cd52673aacca1b501ad756da8ede203abfe3&", img: "",
             },
 
             { 
@@ -2137,7 +2137,7 @@ A proximidade física e emocional atingiu seu ápice, e o coração disparava em
 
 Percebi que não havia mais nada entre nós além de sentimentos puros, desejos sinceros e a vontade de viver cada instante ao máximo.  
 E naquele momento, o mundo desapareceu. Só existíamos nós dois. ❤️ `, 
-                img: "https://media.discordapp.net/attachments/1074120185272860692/1484256063334383666/IMG-20241012-WA0014.jpg?ex=69bd90ad&is=69bc3f2d&hm=ca0c6dd9cdc5bc3196f25b84f246029435081093b5d8730dd5e390660d467882&=&format=webp&width=438&height=779" 
+                video:"https://cdn.discordapp.com/attachments/1350448598088814625/1350602929496785096/VID-20241013-WA00191.mp4?ex=69e9fa3f&is=69e8a8bf&hm=ecac59f6423533fca271f1f37308c56b75b2dc1f3d9396a71b79f54512c53e0a&", img: "https://media.discordapp.net/attachments/1074120185272860692/1484256063334383666/IMG-20241012-WA0014.jpg?ex=69bd90ad&is=69bc3f2d&hm=ca0c6dd9cdc5bc3196f25b84f246029435081093b5d8730dd5e390660d467882&=&format=webp&width=438&height=779" 
             },
 
             { 
@@ -2158,7 +2158,7 @@ Senti o mesmo quando nossas mãos se tocaram.
 Não precisava falar nada.  
 O silêncio entre nós dizia mais do que qualquer mensagem poderia.  
 Eu queria mais, queria prolongar aquele instante infinitamente.   `, 
-                img: "https://media.discordapp.net/attachments/1074120185272860692/1484257792784207872/IMG-20241013-WA00053.jpg?ex=69bd9249&is=69bc40c9&hm=81041473caaa6f66a2a305bf0ecabdfb31eb2c728dbd0d63abcd66f5808fd7aa&=&format=webp&width=651&height=676" 
+               video:"https://cdn.discordapp.com/attachments/1350448598088814625/1350602929916084234/VID-20241013-WA00181.mp4?ex=69e9fa3f&is=69e8a8bf&hm=f57a6e548dc4cfad622146aaaea43898a9f2cbc774dc63042caa130a8c0938c9&", img: "https://media.discordapp.net/attachments/1074120185272860692/1484257792784207872/IMG-20241013-WA00053.jpg?ex=69bd9249&is=69bc40c9&hm=81041473caaa6f66a2a305bf0ecabdfb31eb2c728dbd0d63abcd66f5808fd7aa&=&format=webp&width=651&height=676" 
             },
 
             { 
@@ -2191,7 +2191,7 @@ Segurando sua mão, percebi que cada toque valia mais que mil palavras.
 O mundo desapareceu ao nosso redor.  
 E naquele instante, senti que não havia mais distância, nem barreiras.  
 Só nós, finalmente juntos, prestes a viver tudo que sentimos.  `, 
-                img: "https://cdn.discordapp.com/attachments/1074120185272860692/1484257297613193306/IMG-20251228-WA0012.jpg?ex=69bd91d3&is=69bc4053&hm=d81b9c58aa1b2323dd0f394753c0ee314ddf87b7168e109c55345f3eb6c33211&" 
+               video:"", img: "https://media.discordapp.net/attachments/1350448598088814625/1496582722460712991/WhatsApp_Image_2026-03-08_at_14.40.49.jpeg?ex=69ea68c6&is=69e91746&hm=b4bf8f3ce94704f90cbb13b2b3444ca0af0fd02510bfb9dbf78da03b63865fa5&=&format=webp&width=380&height=676" 
             },
 
             { 
@@ -2249,7 +2249,7 @@ Então nos sentamos lado a lado, mãos entrelaçadas, respirando juntos.
 Falamos pouco, mas cada palavra tinha significado.  
 Era conexão pura, desejo contido, afeto e amor em um só instante.  
 E senti que finalmente estávamos completos, juntos, vivendo tudo que sentimos durante esses dias. `, 
-                img: "https://media.discordapp.net/attachments/1074120185272860692/1484257297130717284/IMG-20251228-WA0009.jpg?ex=69bd91d3&is=69bc4053&hm=e46df1672700097bd64b12688cdd768fd3996d298cf936914baed494b2399ee3&=&format=webp&width=380&height=676" 
+                video:"https://cdn.discordapp.com/attachments/1350448598088814625/1350602928854925426/VID-20241013-WA00211.mp4?ex=69e9fa3f&is=69e8a8bf&hm=658362882d91a7ac744bb2f963e7cd52673aacca1b501ad756da8ede203abfe3&", img: "https://media.discordapp.net/attachments/1074120185272860692/1484257297130717284/IMG-20251228-WA0009.jpg?ex=69bd91d3&is=69bc4053&hm=e46df1672700097bd64b12688cdd768fd3996d298cf936914baed494b2399ee3&=&format=webp&width=380&height=676" 
             }
         ];
 
