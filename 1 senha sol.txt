@@ -1,0 +1,24 @@
+1 senha: "sol"
+2 senha: "pudim"
+3 senha: "que deusa"
+4 senha: "saudades"
+5 senha: "importante"
+6 senha: "cuidado"
+7 senha: "imaginar"
+8 senha: "ciume"
+9 senha: "sorriso"
+10 senha: "paixao"
+18 senha: vazio
+19 senha: voz
+20: sim
+21: medo
+22: gesto
+23: ciúme
+24: sim
+25: gesto
+26: sim
+27: intensidade
+28: não
+29: amor
+30: amor
+
